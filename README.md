@@ -2,6 +2,8 @@
 
 A simple React app using Tailwind CSS to change the background color.
 
+![image](https://github.com/pushan-alagiya/bgChanger/blob/main/src/assets/Pasted%20image.png)
+
 ## Usage
 
 1. Clone the repo.
